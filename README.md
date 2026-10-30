@@ -132,6 +132,7 @@ grep -v hello newfile
 
 
 cat newfile | grep -i "hello"
+
 ## OUTPUT
 <img width="471" height="72" alt="image" src="https://github.com/user-attachments/assets/fe474a5c-572d-4961-89ee-8449301fb8de" />
 
@@ -139,6 +140,7 @@ cat newfile | grep -i "hello"
 
 
 cat newfile | grep -i -c "hello"
+
 ## OUTPUT
 
 <img width="491" height="54" alt="image" src="https://github.com/user-attachments/assets/b259c14d-5eb6-4540-8a24-eccecb5170a3" />
@@ -146,6 +148,7 @@ cat newfile | grep -i -c "hello"
 
 
 grep -R ubuntu /etc
+
 ## OUTPUT
 <img width="567" height="180" alt="image" src="https://github.com/user-attachments/assets/be160f60-b130-4bac-ac4a-6be9c2b220b8" />
 
